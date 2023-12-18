@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sujaykhond
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning B.E AIML
-- 💞️ I’m looking to collaborate on software development
+- 💞️ I’m looking to collaborate on web Development And Machine Learning 
 - 📫 How to reach me sujaykhond@gmail.com
 
 <!---
