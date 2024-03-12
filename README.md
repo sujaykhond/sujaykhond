@@ -1,28 +1,27 @@
   # 👋 Hello, I'm Sujay Khond 
 
 Welcome to my GitHub profile. 
- I'm a passionate 👨🏻‍💻frontend developer with a knack for creating beautiful and functional web experiences. 🚀
+ I'm a passionate 👨🏻‍💻**frontend developer** with a knack for creating beautiful and functional web experiences. 🚀
  I'm a 3rd Year B.tech (AIML) Student At Savitribai Phule Pune University
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I frequently work with:
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Angular
-- **Styling:** Tailwind CSS, CSS-in-JS
-- **Version Control:** Git
-- **Build Tools:** VS Code
-- **Testing:** Jest, React Testing Library
-- **Other:** npm, yarn.
+➢ **Languages:** </> HTML,📲CSS,🌐JavaScript
+➢ **Frameworks/Libraries:** ⚛️React.js,🅰Angular
+➢ **Styling:** Tailwind CSS, CSS-in-JS
+➢ **Version Control:** Git
+➢ **Build Tools:** 🆚VS Code
+➢ **Testing:** Jest, ⚛️React Testing Library
+➢ **Other:** npm, yarn.
 
 ## 📚 Projects
 
 Here are some notable projects I've worked on:
 
-1. [Project Name](link) - Brief description.
-2. [Project Name](link) - Brief description.
-3. [Project Name](link) - Brief description.
+1. [Tic-Tac-Toe 🎮Game ](https://github.com/sujaykhond/Tic-Tac-Toe-)
+2. [Grid-Portfolio](https://github.com/sujaykhond/grid-portfolio) - this is the showcase the 3d 🌌gallery
 
 Feel free to explore more of my projects on [my GitHub repositories](https://github.com/sujaykhond?tab=repositories).
 
