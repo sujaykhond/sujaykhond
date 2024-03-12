@@ -1,4 +1,4 @@
-                                                                                                # 👋 Hello, I'm Sujay Khond 
+                          # 👋 Hello, I'm Sujay Khond 
 
 Welcome to my GitHub profile. 
 I'm a passionate 👨🏻‍💻frontend developer with a knack for creating beautiful and functional web experiences. 🚀
