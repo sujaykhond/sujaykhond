@@ -1,19 +1,19 @@
-                          # 👋 Hello, I'm Sujay Khond 
+                       # 👋 Hello, I'm Sujay Khond 
 
 Welcome to my GitHub profile. 
-I'm a passionate 👨🏻‍💻frontend developer with a knack for creating beautiful and functional web experiences. 🚀
+ I'm a passionate 👨🏻‍💻frontend developer with a knack for creating beautiful and functional web experiences. 🚀
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I frequently work with:
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Vue.js, Angular
-- **Styling:** Sass, CSS-in-JS
+- **Frameworks/Libraries:** React.js, Angular
+- **Styling:** Tailwind CSS, CSS-in-JS
 - **Version Control:** Git
-- **Build Tools:** Webpack, Parcel
+- **Build Tools:** VS Code
 - **Testing:** Jest, React Testing Library
-- **Other:** npm, yarn, ESLint, Prettier
+- **Other:** npm, yarn.
 
 ## 📚 Projects
 
