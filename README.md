@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. 
  I'm a passionate 👨🏻‍💻**frontend developer** with a knack for creating beautiful and functional web experiences 🚀.
- I'm a 3rd Year B.tech (AIML) Student At Savitribai Phule Pune University.
+ I'm a 3rd Year **B.tech AIML** Student At Savitribai Phule Pune University.
 
 ## 🛠️ Technologies & Tools
 
@@ -20,7 +20,7 @@ Here are some of the technologies and tools I frequently work with:
 
 Here are some notable projects I've worked on:
 
-1. [Tic-Tac-Toe 🎮Game ](https://github.com/sujaykhond/Tic-Tac-Toe-)
+1. [🎮Tic-Tac-Toe Game ](https://github.com/sujaykhond/Tic-Tac-Toe-)
 2. [Grid-Portfolio](https://github.com/sujaykhond/grid-portfolio) - this is the showcase the 3d 🌌gallery
 
 Feel free to explore more of my projects on [my GitHub repositories](https://github.com/sujaykhond?tab=repositories).
@@ -39,7 +39,7 @@ I'm always eager to learn new things and improve my skills. Currently, I'm focus
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
 
-- 📧Email: sujaykhond@gmail.com
-- 🔗LinkedIn: @Sujay Khond (https://www.linkedin.com/in/sujaykhond)
+- 📧Email: [Sujaykhond](sujaykhond@gmail.com)
+- 🔗LinkedIn: [@Sujay Khond](https://www.linkedin.com/in/sujaykhond)
 
 Don't hesitate to say hi or ask me anything! 😊
