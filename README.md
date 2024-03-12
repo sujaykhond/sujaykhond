@@ -8,13 +8,13 @@ Welcome to my GitHub profile.
 
 Here are some of the technologies and tools I frequently work with:
 
-➢ **Languages:** </> HTML,📲CSS,🌐JavaScript.
-➢ **Frameworks/Libraries:** ⚛️React.js,🅰Angular.
-➢ **Styling:** Tailwind CSS, CSS-in-JS.
-➢ **Version Control:** Git.
-➢ **Build Tools:** 🆚VS Code.
-➢ **Testing:** Jest, ⚛️React Testing Library.
-➢ **Other:** npm, yarn.
+-  **Languages:** </> HTML,📲CSS,🌐JavaScript.
+-  **Frameworks/Libraries:** ⚛️React.js,🅰Angular.
+-  **Styling:** Tailwind CSS, CSS-in-JS.
+-  **Version Control:** Git.
+-  **Build Tools:** 🆚VS Code.
+-  **Testing:** Jest, ⚛️React Testing Library.
+-  **Other:** npm, yarn.
 
 ## 📚 Projects
 
