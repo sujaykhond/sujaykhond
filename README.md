@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile. 
  I'm a passionate 👨🏻‍💻frontend developer with a knack for creating beautiful and functional web experiences. 🚀
+ I'm a 3rd Year B.tech (AIML) Student At Savitribai Phule Pune University
 
 ## 🛠️ Technologies & Tools
 
@@ -23,22 +24,23 @@ Here are some notable projects I've worked on:
 2. [Project Name](link) - Brief description.
 3. [Project Name](link) - Brief description.
 
-Feel free to explore more of my projects on [my GitHub repositories](link).
+Feel free to explore more of my projects on [my GitHub repositories](https://github.com/sujaykhond?tab=repositories).
 
 ## 🌱 Currently Learning
 
 I'm always eager to learn new things and improve my skills. Currently, I'm focusing on:
 
 - Advanced CSS techniques
+- Advanced Javascript Concept
+- Advanced React Development 
 - Performance optimization in web development
-- Serverless architecture
+- 
 
 ## 📫 Let's Connect
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
 
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- 📧Email: sujaykhond@gmail.com
+- 🔗LinkedIn: @Sujay Khond (https://www.linkedin.com/in/sujaykhond)
 
 Don't hesitate to say hi or ask me anything! 😊
