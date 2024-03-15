@@ -6,7 +6,7 @@ Welcome to my GitHub profile.
 
 ## 🛠️ Technologies & Tools
 
-Here are some of the technologies and tools I frequently work with:
+Here are some of the technologies and tools I frequently work with: 
 
 -  **Languages:** </> HTML,📲CSS,🌐JavaScript.
 -  **Frameworks/Libraries:** ⚛️React.js,🅰Angular.
