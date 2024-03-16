@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. 
  I'm a passionate 👨🏻‍💻**frontend developer** with a knack for creating beautiful and functional web experiences 🚀.
- I'm a 3rd Year **B.tech AIML** Student At Savitribai Phule Pune University.
+ I'm a 3rd Year **B.tech AIML** Student At **Savitribai Phule Pune University.**
 
 ## 🛠️ Technologies & Tools
 
