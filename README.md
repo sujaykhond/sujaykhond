@@ -9,8 +9,7 @@ Welcome to my GitHub profile.
 Here are some of the technologies and tools I frequently work with: 
 
 -  **Languages:** </> HTML,📲CSS,🌐JavaScript.
--  **Frameworks/Libraries:** ⚛️React.js ,![Uploading image.png…]()
-Tailwind CSS
+-  **Frameworks/Libraries:** ⚛️React.js ,Tailwind CSS
 -  **Styling:** Tailwind CSS, CSS-in-JS.
 -  **Version Control:** Git.
 -  **Build Tools:** 🆚VS Code.
