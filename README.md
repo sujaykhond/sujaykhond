@@ -21,7 +21,7 @@ Here are some of the technologies and tools I frequently work with:
 Here are some notable projects I've worked on:
 
 1. [🎮Sk-insights blog App ](https://sk-insights.vercel.app/)
-2. [Currency Converter]((https://currency-converter-one-kappa.vercel.app/)) 
+2. [Currency Converter](https://currency-converter-one-kappa.vercel.app/) 
 
 Feel free to explore more of my projects on [my GitHub repositories](https://github.com/sujaykhond?tab=repositories).
 
