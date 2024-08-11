@@ -20,7 +20,7 @@ Here are some of the technologies and tools I frequently work with:
 
 Here are some notable projects I've worked on:
 
-1. [🎮Tic-Tac-Toe Game ](https://github.com/sujaykhond/Tic-Tac-Toe-)
+1. [🎮Sk-insights blog App ](https://sk-insights.vercel.app/)
 2. [Grid-Portfolio](https://github.com/sujaykhond/grid-portfolio) - this is the showcase the 3d 🌌gallery
 
 Feel free to explore more of my projects on [my GitHub repositories](https://github.com/sujaykhond?tab=repositories).
